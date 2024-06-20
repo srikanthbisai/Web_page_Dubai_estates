@@ -1,0 +1,45 @@
+
+.header {
+    background-image: url('/Group 137.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+  }
+  
+  .header-button{
+    color: #17ABFF;
+    border: 2px solid #17ABFF;
+  }
+
+  .presentation-button{
+    background-color: #17ABFF;
+  }
+
+  .header-blur-div{
+    background-image: url('/Rectangle 11.png');
+  }
+
+   .small-items{
+    border-left: 3px solid #17ABFF;
+   }
+
+
+   .description{
+    color:#00357B;
+   }
+
+  .footer{
+    background-color: #091D41;
+  }
+
+  .color-button{
+   background-color:#00357B;
+  }
+
+  .border-color-button{
+    border: 2px solid #00357B;
+    color: #00357B;
+  }
+
+
